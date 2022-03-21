@@ -1,9 +1,8 @@
 
 
-### I am Sushil Sharma 👋
+ 👋 I'm Sushil Sharma 
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on University of Limerick 
 - 🌱 I’m currently learning ...
