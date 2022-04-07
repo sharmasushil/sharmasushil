@@ -1,4 +1,6 @@
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/70905483/162197490-f7f66e98-e655-45a0-a9b7-3969582aa349.gif)
+<p align="center">
+  ![ezgif com-gif-maker](https://user-images.githubusercontent.com/70905483/162197490-f7f66e98-e655-45a0-a9b7-3969582aa349.gif alt="animated" />) </p>
+
 
 
 - 👋 I'm Sushil Sharma 
