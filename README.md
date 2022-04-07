@@ -1,6 +1,6 @@
 
-  ![ezgif com-gif-maker](https://user-images.githubusercontent.com/70905483/162197490-f7f66e98-e655-45a0-a9b7-3969582aa349.gif alt="animated" )
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/70905483/162198364-44ec2171-de3d-4aa7-be9b-cb7409f8e318.gif)
 
 - 👋 I'm Sushil Sharma 
 - 🔭 I’m interested in autonomous system, robotics, deep learning and computer vision applications
