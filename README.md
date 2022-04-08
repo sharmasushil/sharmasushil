@@ -1,4 +1,4 @@
-  <img src = "https://user-images.githubusercontent.com/70905483/162198364-44ec2171-de3d-4aa7-be9b-cb7409f8e318.gif" align="right" height="120" width="180">
+  <img src = "https://user-images.githubusercontent.com/70905483/162198364-44ec2171-de3d-4aa7-be9b-cb7409f8e318.gif" align="right" height="80" width="140">
   
   
 - 👋 I'm Sushil Sharma                                                                      
