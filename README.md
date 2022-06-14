@@ -4,7 +4,7 @@
 - 👋 I'm Sushil Sharma                                                                      
 - 🔭 I’m interested in autonomous system, robotics, deep learning and computer vision.
 - 📫 How to reach me: https://sushilsharma840.wixsite.com/home-sushil-sharma
-- 🔗 Linkedin Profile: [![Linkedin Badge](https://img.shields.io/badge/-Sushil-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sushilsharmarobotics/)
+- 🔗 Linkedin Profile: [![Linkedin Badge](https://img.shields.io/badge/-Sushil-Sharma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sushilsharmarobotics/)
 
 
 #### :hammer_and_wrench: Languages and Tools :
