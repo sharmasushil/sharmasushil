@@ -9,7 +9,6 @@
 
 #### :hammer_and_wrench: Languages and Tools :
 <div>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg";
   <img src=	https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue;
   
 </div>
