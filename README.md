@@ -8,8 +8,6 @@
 #### :hammer_and_wrench: Languages and Tools :
 <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="70" height="70"/>&nbsp;
-
-
 </div>
 
 
