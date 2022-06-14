@@ -10,6 +10,8 @@
 #### :hammer_and_wrench: Languages and Tools :
 <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="70" height="70"/>&nbsp;
+  <img src=	https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue;
+  
 </div>
 
 ![Sushil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharmasushil&show_icons=true&theme=dark&hide=contribs,prs)
