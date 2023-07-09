@@ -7,7 +7,6 @@
 - 🔗 Linkedin Profile: [![Linkedin Badge](https://img.shields.io/badge/SushilSharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushilsharmarobotics/)
 
 
-![Sushil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharmasushil&show_icons=true&theme=darklight&hide=contribs,prs)
 
 
 
